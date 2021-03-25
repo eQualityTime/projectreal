@@ -22,3 +22,15 @@ We are funded by [Not Equal](https://not-equal.tech/).  Not-Equal is a UKRI fund
 This project was co-created by young people, teachers, influencers and academics.  The aim was to create a programme which could be delivered by educators to help young people to become critical consumers of online information. To test if our programme was effective in this we are currently running the project in three Glasgow schools.   
 
 Young people will complete questionnaires exploring their ability and confidence in recognising fake news, the steps they take before believing and sharing information online and their conspiracy beliefs.  They will then participate in our 6 week programme.  They will complete the questionnaire again straight after they complete the programme and again six weeks after the programme finishes. This will allow us to see if our programme is effective both in the short and longer term. 
+
+# People 
+
+* [Yvonne Skipper](https://www.gla.ac.uk/schools/education/staff/yvonneskipper/)
+* [Daniel Jolley](https://www.northumbria.ac.uk/about-us/our-staff/j/daniel-jolley/) 
+* Gemma Haywood
+* [Joe Reddington](https://joereddington.com/)
+
+# Contact 
+For general enquiries, please email contact@equalitytime.co.uk
+
+
