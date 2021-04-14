@@ -22,8 +22,8 @@ title: Project Real
 email: contact@equalitytime.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Using domain experts and co-creation to combat misinformation online and in person.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/projectreal" # the subpath of your site, e.g. /blog
+url: https://equalitytime.github.io
 github_username:  equalitytime
 
 # Build settings
