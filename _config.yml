@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/projectreal" # the subpath of your site, e.g. /blog
 url: https://equalitytime.github.io
 github_username:  equalitytime
+google_analytics: G-M3S13W23GW
 
 # Build settings
 theme: minima
