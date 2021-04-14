@@ -5,7 +5,7 @@
 layout: page
 ---
 
-![]({% link {{site.baseurl}}/assets/logos/ProjectReal.png %})
+<img src="{{site.baseurl}}/assets/logos/ProjectReal.png" alt="Project Logo"/> 
 
 # Project Real 
 
