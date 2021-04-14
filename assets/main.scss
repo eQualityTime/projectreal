@@ -1,0 +1,17 @@
+---
+---
+@import "{{ site.theme }}";
+
+
+/** Images */
+img {margin: auto;
+  display: block; width:40%}
+
+
+h1 { text-align: center; font-size:42px; font-weight:800;
+}
+
+@media only screen and (max-width: 600px) {
+
+ img {width: 100%; height: 100%; margin: 0; padding: 0;}
+}

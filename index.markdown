@@ -1,3 +1,14 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: page
+---
+
+![]({% link assets/logos/ProjectReal.png %})
+
+# Project Real 
+
 Welcome to #Project Real.  This project has been co created by young people, teachers, influencers and academics. It aims to give young people the skills to be critical consumers of information they find online and to feel confident in their abilities to make good decisions based on this. 
 
 Fake news reaches more people and spreads more quickly than the truth (Science, 2018) and is believed around 75% of the time (Silveman & Singer-Vine, 2016), meaning millions of people may have been fooled by fake news (Allcot & Gentzkow, 2017). It is vital to help people to develop skills to recognise fake news as they are our first line of defence against fake news.  
@@ -13,24 +24,22 @@ If you have any feedback on the programme, please get in touch and let us know. 
  
  
 
-# Our funder
+## Our funder
  
 We are funded by [Not Equal](https://not-equal.tech/).  Not-Equal is a UKRI funded network, NetworkPlus, that aims to foster new collaborations in order to create the conditions for digital technology to support social justice, and develop a path for inclusive digital innovation and a fairer future for all in and through the digital economy.
 
-# Our Research  
+## Our Research  
 
 This project was co-created by young people, teachers, influencers and academics.  The aim was to create a programme which could be delivered by educators to help young people to become critical consumers of online information. To test if our programme was effective in this we are currently running the project in three Glasgow schools.   
 
 Young people will complete questionnaires exploring their ability and confidence in recognising fake news, the steps they take before believing and sharing information online and their conspiracy beliefs.  They will then participate in our 6 week programme.  They will complete the questionnaire again straight after they complete the programme and again six weeks after the programme finishes. This will allow us to see if our programme is effective both in the short and longer term. 
 
-# People 
+## People 
 
 * [Yvonne Skipper](https://www.gla.ac.uk/schools/education/staff/yvonneskipper/)
 * [Daniel Jolley](https://www.northumbria.ac.uk/about-us/our-staff/j/daniel-jolley/) 
 * Gemma Haywood
 * [Joe Reddington](https://joereddington.com/)
 
-# Contact 
-For general enquiries, please email contact@equalitytime.co.uk
 
 
