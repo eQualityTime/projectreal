@@ -5,7 +5,7 @@
 layout: page
 ---
 
-![]({% link assets/logos/ProjectReal.png %})
+![]({% link {{site.baseurl}}/assets/logos/ProjectReal.png %})
 
 # Project Real 
 
