@@ -25,7 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: 
 url: http://www.projectreal.co.uk/
 github_username:  equalitytime
-google_analytics: G-M3S13W23GW
 
 # Build settings
 theme: minima
