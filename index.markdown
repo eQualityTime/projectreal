@@ -7,7 +7,7 @@ layout: page
 
 <img src="{{site.baseurl}}/assets/logos/ProjectReal.png" alt="Project Logo"/> 
 
-# Project Real to con
+# Project Real 
 #ProjectReal has been co created by young people, teachers, influencers and academics. It aims to give young people the skills to combat misinformation online. 
 
 This site contains lesson plans and resources for six PSHE sessions, each focussed on the government SHARE guidelines and covering a different element of online misinformation.  
