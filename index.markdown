@@ -36,7 +36,7 @@ So to build these resources, we arranged for influencers to give a serious of ta
 
 
 ## Does it work? 
-We gave the resources to three schools in Glasgow for the PSHE lessons and tested the students before and after (N=85).  Here's the results: 
+We gave the resources to three schools in Glasgow for the PSHE lessons and tested the students before and after the six week programme (N=85).  Here's the results: 
 
 * Young people felt more confident at knowing what fake news is after the intervention (M = 5.53, SD = 1.03) than before (M = 5.26, SD = 1.34), t(65) = -2.01, p = .049.
 * Young people also felt more confident at identifying fake news (M = 5.42, SD = 1.00) than before the intervention (M = 4.66, SD = 1.77), t(64) = -5.58, p < .001.
@@ -83,10 +83,6 @@ Each lesson should last 50 minutes to 1 hour and includes a starter, main activi
 * [Session 6: Keeping it Real](session6) In this session, young people will bring together their knowledge from all the different sessions to create resources to help teach people younger than them about fake news.  
 
 
-## Our Research  
-This project was co-created by young people, teachers, influencers and academics.  The aim was to create a programme which could be delivered by educators to help young people to become critical consumers of online information. To test if our programme was effective in this we are currently running the project in three Glasgow schools.   
-
-Young people will complete questionnaires exploring their ability and confidence in recognising fake news, the steps they take before believing and sharing information online and their conspiracy beliefs.  They will then participate in our 6 week programme.  They will complete the questionnaire again straight after they complete the programme and again six weeks after the programme finishes. This will allow us to see if our programme is effective both in the short and longer term.
 
 ## Contact Us. 
 If you have any feedback on the programme, please get in touch and let us know.  We hope you and your students enjoy the programme.  We can be contacted at projectreal@equalitytime.co.uk
