@@ -7,10 +7,11 @@ layout: page
 
 <img src="{{site.baseurl}}/assets/logos/ProjectReal.png" alt="Project Logo"/> 
 
-# Project Real 
-Welcome to #ProjectReal.  This project has been co created by young people, teachers, influencers and academics. It aims to give young people the skills to be critical consumers of information they find online and to feel confident in their abilities to make good decisions based on this.
+# Project Real to con
+#ProjectReal has been co created by young people, teachers, influencers and academics. It aims to give young people the skills to combat misinformation online. 
 
-Here you'll find lesson plans and resources six hour-long sessions, each focussed on the government SHARE guidelines and each covering a different element of fake news, e.g. fake photos, fake people and fake videos.  The lessons are designed for learners aged around 11-13.  
+This site contains lesson plans and resources for six PSHE sessions, each focussed on the government SHARE guidelines and covering a different element of online misinformation.  
+
 
 
 ## Why? 
@@ -72,7 +73,7 @@ Each lesson pack includes:
 * A short teacher guide with rough timings and materials you may need for the session.  
 
 We recommend that you work through all lessons in the order they are presented as our research evaluated the impact of the project based on following the full programme, but you can of course dip in and out and use sessions which are most important and timely for your students.
-Each lesson should last 50 minutes to 1 hour and includes a starter, main activity and closing activity.  All include a short video from an influencer to contextualise learning.
+Each lesson should last 50 minutes to 1 hour and includes a starter, main activity and closing activity.  All include a short video from an influencer to contextualise learning.  The lessons are designed for learners aged around 11-13.  
 
 ### Lessons 
 * [Session 1: Fake News](session1) This session will introduce young people to the topic of fake news and help them develop the skills to recognise fake news.
