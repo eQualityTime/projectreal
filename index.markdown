@@ -8,7 +8,7 @@ layout: page
 <img src="{{site.baseurl}}/assets/logos/ProjectReal.png" alt="Project Logo"/> 
 
 # Project Real 
-Welcome to #Project Real.  This project has been co created by young people, teachers, influencers and academics. It aims to give young people the skills to be critical consumers of information they find online and to feel confident in their abilities to make good decisions based on this.
+Welcome to #ProjectReal.  This project has been co created by young people, teachers, influencers and academics. It aims to give young people the skills to be critical consumers of information they find online and to feel confident in their abilities to make good decisions based on this.
 
 Here you'll find lesson plans and resources six hour-long sessions, each focussed on the government SHARE guidelines and each covering a different element of fake news, e.g. fake photos, fake people and fake videos.  The lessons are designed for learners aged around 11-13.  
 
@@ -58,8 +58,8 @@ We gave the resources to three schools in Glasgow for the PSHE lessons and teste
 
  
 ## The Team
-* [Yvonne Skipper](https://www.gla.ac.uk/schools/education/staff/yvonneskipper/)
-* [Daniel Jolley](https://www.northumbria.ac.uk/about-us/our-staff/j/daniel-jolley/) 
+* [Dr Yvonne Skipper](https://www.gla.ac.uk/schools/education/staff/yvonneskipper/)
+* [Dr Daniel Jolley](https://www.northumbria.ac.uk/about-us/our-staff/j/daniel-jolley/) 
 * Gemma Haywood
 * [Joe Reddington](https://joereddington.com/)
 
@@ -74,30 +74,14 @@ Each lesson pack includes:
 We recommend that you work through all lessons in the order they are presented as our research evaluated the impact of the project based on following the full programme, but you can of course dip in and out and use sessions which are most important and timely for your students.
 Each lesson should last 50 minutes to 1 hour and includes a starter, main activity and closing activity.  All include a short video from an influencer to contextualise learning.
 
-### Session 1- Fake News
-This session will introduce young people to the topic of fake news and help them develop the skills to recognise fake news.
+### Lessons 
+* [Session 1: Fake News](session1) This session will introduce young people to the topic of fake news and help them develop the skills to recognise fake news.
+* [Session 2: Fake Photos](session2) This session will help young people develop skills in recognising when photos may have been edited, reflect on why people might edit photos and the impact this can have.
+* [Session 3: Fake People](session3) This session will focus on fake news in social media.  This includes spotting fake accounts, fake news and staying safe online.
+* [Session 4: Fake Stories (Conspiracies)](session4) This session will explore conspiracy theories, why people might believe them and how to spot them online.
+* [Session 5: Fake Videos](session5) In this session we will explore fake videos, giving young people the tools to learn what to look for on videos which may not be real and the impact this can have. 
+* [Session 6: Keeping it Real](session6) In this session, young people will bring together their knowledge from all the different sessions to create resources to help teach people younger than them about fake news.  
 
-[Resources for session]({{site.baseurl}}/assets/lessons/1)
-### Session 2- Fake Photos
-This session will help young people develop skills in recognising when photos may have been edited, reflect on why people might edit photos and the impact this can have.
-
-[Resources for session]({{site.baseurl}}/assets/lessons/2)
-### Session 3- Fake People
-This session will focus on fake news in social media.  This includes spotting fake accounts, fake news and staying safe online.
-
-[Resources for session]({{site.baseurl}}/assets/lessons/3)
-### Session 4- Fake Stories (Conspiracies)
-This session will explore conspiracy theories, why people might believe them and how to spot them online.
-
-[Resources for session]({{site.baseurl}}/assets/lessons/4)
-### Session 5- Fake Videos 
-In this session we will explore fake videos, giving young people the tools to learn what to look for on videos which may not be real and the impact this can have. 
-
-[Resources for session]({{site.baseurl}}/assets/lessons/5)
-### Session 6- Keeping it Real
-In this session, young people will bring together their knowledge from all the different sessions to create resources to help teach people younger than them about fake news.  
-
-[Resources for session]({{site.baseurl}}/assets/lessons/6)
 
 ## Our Research  
 This project was co-created by young people, teachers, influencers and academics.  The aim was to create a programme which could be delivered by educators to help young people to become critical consumers of online information. To test if our programme was effective in this we are currently running the project in three Glasgow schools.   
