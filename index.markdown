@@ -10,9 +10,11 @@ layout: page
 # Project Real 
 #ProjectReal has been co created by young people, teachers, influencers and academics. It aims to give young people the skills to combat misinformation online. 
 
-This site contains session plans and resources for six PSHE sessions, each focussed on the government SHARE guidelines and covering a different element of online misinformation.  
+This site contains session plans and resources for six sessions, each focussed on the government SHARE guidelines and covering a different element of online misinformation.  These sessions have been designed to be delivered in schools and youth group settings  but may also be of interest to families.
 
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tjRWtL4FSyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Why? 
 Fake news reaches more people and spreads more quickly than the truth (Science, 2018) and is believed around 75% of the time (Silveman & Singer-Vine, 2016), meaning millions of people may have been fooled by fake news (Allcot & Gentzkow, 2017). It is vital to help people to develop skills to recognise fake news as they are our first line of defence against fake news. 
@@ -26,13 +28,13 @@ So who do they trust? They trust each other, and they trust the people they see 
 
 >  Many young people feel that their favourite Influencers understand them better than their friends do (O’Neil-Hart & Blumenstein, 2016). 
 
-So to build these resources, we arranged for influencers to give a serious of talks and Q&A sessions to groups of students and worked with those students to co-create session plans (which included asking the influencers to record short snippets on their area of expertise). As a result, the resources below are informed by expert opinion and also set at an ideal level for the students to appreciate and understand.  
+So to build these resources, we arranged for influencers to give a series of talks and Q&A sessions to groups of students and worked with those students to co-create session plans (which included asking the influencers to record short snippets on their area of expertise). As a result, the resources below are informed by expert opinion and also set at an ideal level for the students to appreciate and understand.  
 
 <div>
 <img src="{{site.baseurl}}/assets/in1.png" style="max-width:30%;float:left" alt="A portrait shot of one of our influencers"/> 
 <img src="{{site.baseurl}}/assets/in2.png" style="max-width:30%;float:left" alt="A portrait shot of one of our influencers"/> 
 <img src="{{site.baseurl}}/assets/in3.png" style="max-width:30%;float:left" alt="A portrait shot of one of our influencers"/> 
-<p style="clear:both;text-align: center;"> <i>Three of our influencers: Phoebe, Bushra, </i></p>
+<p style="clear:both;text-align: center;"> <i>Three of our influencers: Phoebe, Bushra, Harriotte.</i></p>
 </div>
 
 
@@ -40,21 +42,21 @@ So to build these resources, we arranged for influencers to give a serious of ta
 
 
 ### Comments from teachers
-> ‘the videos from the Instagram influencers. That was really good to relate it to the real world, um especially when this is becoming a quite an aspiring career to get into.’ 
+> ‘the videos from the Instagram influencers. That was really good to relate it to the real world, especially when this is becoming a quite an aspiring career to get into.’ 
 
-> ‘I think having pupils involved is the way forward. Yeah. It's really, it's designing it with them.’
+> ‘I think having pupils involved is the way forward. It's designing it with them.’
 
 > ‘it's interesting, because young people just think that they know, everything, but then the examples that you had given, it was quite kind of thought provoking and things like that. So it was it was really useful.’ 
 
 > ‘I genuinely think that when I could see lightbulb moments when we were chatting about things, and they were understanding it at the time.’ 
 
-> ‘I've already had staff saying they thought it should be delivered to all year groups. Someone else who didn't deliver it, but heard about it said has said, asked me if we could use it again next year’
+> ‘I've already had staff saying they thought it should be delivered to all year groups. Someone else who didn't deliver it, but heard about it, asked me if we could use it again next year’
 
 ### Comments from students
 
-> ‘Yeah I think now we look more aware of how you can spot fake news. And like, it encourages me to like double check or do a lot of research into what I've just read.’
+> ‘I think now we look more aware of how you can spot fake news. And like, it encourages me to like double check or do a lot of research into what I've just read.’
 
-> ‘Yeah, it (Project Real) definitely made me more confident myself. Like I said before, I know what to do now. Like usually now, when I look at the news, I’ll like double check things to see if any other news, like website has wrote the same thing and like read beyond the headlines.’
+> ‘Project Real definitely made me more confident myself. Like I said before, I know what to do now. Like usually now, when I look at the news, I’ll like double check things to see if any other news, like website has wrote the same thing and like read beyond the headlines.’
 
 > ‘I feel like I can like when I see it I’d be able to tell if it’s fake news or like fake picture easier than before.’
 
@@ -66,7 +68,7 @@ So to build these resources, we arranged for influencers to give a serious of ta
 ## The Team
 * [Dr Yvonne Skipper](https://www.gla.ac.uk/schools/education/staff/yvonneskipper/)
 * [Dr Daniel Jolley](https://www.northumbria.ac.uk/about-us/our-staff/j/daniel-jolley/) 
-* Gemma Haywood
+* [Gemma Haywood](https://twitter.com/phdgemmahaywood?lang=en)
 * [Joe Reddington](https://joereddington.com/)
 
 ## Our funder
@@ -88,7 +90,7 @@ Each session should last 50 minutes to 1 hour and includes a starter, main activ
 * [Session 5: Fake Videos](session5) In this session we will explore fake videos, giving young people the tools to learn what to look for on videos which may not be real and the impact this can have. 
 * [Session 6: Keeping it Real](session6) In this session, young people will bring together their knowledge from all the different sessions to create resources to help teach people younger than them about fake news.  
 
-
+You can also download the complete set of files [here]({{site.baseurl}}/assets/lessons/allresources.zip).
 
 ## Contact Us
 If you have any feedback on the programme, please get in touch and let us know.  We hope you and your students enjoy the programme.  We can be contacted at <a href="projectreal@equalitytime.co.uk">projectreal@equalitytime.co.uk</a>
