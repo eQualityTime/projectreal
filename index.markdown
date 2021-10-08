@@ -10,7 +10,7 @@ layout: page
 # Project Real 
 #ProjectReal has been co created by young people, teachers, influencers and academics. It aims to give young people the skills to combat misinformation online. 
 
-This site contains lesson plans and resources for six PSHE sessions, each focussed on the government SHARE guidelines and covering a different element of online misinformation.  
+This site contains session plans and resources for six PSHE sessions, each focussed on the government SHARE guidelines and covering a different element of online misinformation.  
 
 
 
@@ -26,25 +26,18 @@ So who do they trust? They trust each other, and they trust the people they see 
 
 >  Many young people feel that their favourite Influencers understand them better than their friends do (O’Neil-Hart & Blumenstein, 2016). 
 
-So to build these resources, we arranged for influencers to give a serious of talks and Q&A sessions to groups of students and worked with those students to co-create lesson plans (which included asking the influencers to record short snippets on their area of expertise). As a result, the resources below are informed by expert opinion and also set at an ideal level for the students to appreciate and understand.  
+So to build these resources, we arranged for influencers to give a serious of talks and Q&A sessions to groups of students and worked with those students to co-create session plans (which included asking the influencers to record short snippets on their area of expertise). As a result, the resources below are informed by expert opinion and also set at an ideal level for the students to appreciate and understand.  
 
 <div>
 <img src="{{site.baseurl}}/assets/in1.png" style="max-width:30%;float:left" alt="A portrait shot of one of our influencers"/> 
 <img src="{{site.baseurl}}/assets/in2.png" style="max-width:30%;float:left" alt="A portrait shot of one of our influencers"/> 
 <img src="{{site.baseurl}}/assets/in3.png" style="max-width:30%;float:left" alt="A portrait shot of one of our influencers"/> 
-<p style="clear:both;text-align: center;"> <i>Three of our influencers</i></p>
+<p style="clear:both;text-align: center;"> <i>Three of our influencers: Phoebe, Bushra, </i></p>
 </div>
 
 
-## Does it work? 
-We gave the resources to three schools in Glasgow for the PSHE lessons and tested the students before and after the six week programme (N=85).  Here's the results: 
+## How did it go? 
 
-* Young people felt more confident at knowing what fake news is after the intervention (M = 5.53, SD = 1.03) than before (M = 5.26, SD = 1.34), t(65) = -2.01, p = .049.
-* Young people also felt more confident at identifying fake news (M = 5.42, SD = 1.00) than before the intervention (M = 4.66, SD = 1.77), t(64) = -5.58, p < .001.
-* Young people felt that after the intervention (M = 5.32, SD = 0.96), they were more likely to spot a fake news story from real news than before (M = 4.71, SD = 1.17), t(65) = -4.39, p <.001.
-* After the intervention, young people reported they would use more fact checking behaviours to determine whether an online news story is true (e.g., reading beyond the headline, look at how professional the story looks; M = 3.48, SD = 1.65) than before (M = 2.85, SD = 1.73), t(47) = 2.18, p = .034.
-
-<img src="{{site.baseurl}}/assets/chart.png" style="max-width:90%;width:90%" alt="The above results, but as a bar chart"/> 
 
 ### Comments from teachers
 > ‘the videos from the Instagram influencers. That was really good to relate it to the real world, um especially when this is becoming a quite an aspiring career to get into.’ 
@@ -57,6 +50,18 @@ We gave the resources to three schools in Glasgow for the PSHE lessons and teste
 
 > ‘I've already had staff saying they thought it should be delivered to all year groups. Someone else who didn't deliver it, but heard about it said has said, asked me if we could use it again next year’
 
+### Comments from students
+
+> ‘Yeah I think now we look more aware of how you can spot fake news. And like, it encourages me to like double check or do a lot of research into what I've just read.’
+
+> ‘Yeah, it (Project Real) definitely made me more confident myself. Like I said before, I know what to do now. Like usually now, when I look at the news, I’ll like double check things to see if any other news, like website has wrote the same thing and like read beyond the headlines.’
+
+> ‘I feel like I can like when I see it I’d be able to tell if it’s fake news or like fake picture easier than before.’
+
+> ‘For me, I don’t really look at news that much either. But like, especially when I'm scrolling on social media, like, I tend to kind of look at things, especially Instagram, because I'm like, Oh, I wish I could take photos as perfect as that. And then I'm like, wait, but that isn't real though.’
+
+
+
  
 ## The Team
 * [Dr Yvonne Skipper](https://www.gla.ac.uk/schools/education/staff/yvonneskipper/)
@@ -68,14 +73,14 @@ We gave the resources to three schools in Glasgow for the PSHE lessons and teste
 We are funded by [Not Equal](https://not-equal.tech/).  Not-Equal is a UKRI funded network, NetworkPlus, that aims to foster new collaborations in order to create the conditions for digital technology to support social justice, and develop a path for inclusive digital innovation and a fairer future for all in and through the digital economy.
 
 ## Our Programme 
-Each lesson pack includes: 
+Each session pack includes: 
 * A set of slides presenting the activities we  designed to help young people to recognise and challenge fake news.  
 * A short teacher guide with rough timings and materials you may need for the session.  
 
-We recommend that you work through all lessons in the order they are presented as our research evaluated the impact of the project based on following the full programme, but you can of course dip in and out and use sessions which are most important and timely for your students.
-Each lesson should last 50 minutes to 1 hour and includes a starter, main activity and closing activity.  All include a short video from an influencer to contextualise learning.  The lessons are designed for learners aged around 11-13.  
+We recommend that you work through all sessions in the order they are presented as our research evaluated the impact of the project based on following the full programme, but you can of course dip in and out and use sessions which are most important and timely for your students.
+Each session should last 50 minutes to 1 hour and includes a starter, main activity and closing activity.  All include a short video from an influencer to contextualise learning.  The sessions are designed for learners aged around 11-13.  
 
-### Lessons 
+### Sessions 
 * [Session 1: Fake News](session1) This session will introduce young people to the topic of fake news and help them develop the skills to recognise fake news.
 * [Session 2: Fake Photos](session2) This session will help young people develop skills in recognising when photos may have been edited, reflect on why people might edit photos and the impact this can have.
 * [Session 3: Fake People](session3) This session will focus on fake news in social media.  This includes spotting fake accounts, fake news and staying safe online.
@@ -85,7 +90,7 @@ Each lesson should last 50 minutes to 1 hour and includes a starter, main activi
 
 
 
-## Contact Us. 
-If you have any feedback on the programme, please get in touch and let us know.  We hope you and your students enjoy the programme.  We can be contacted at projectreal@equalitytime.co.uk
+## Contact Us
+If you have any feedback on the programme, please get in touch and let us know.  We hope you and your students enjoy the programme.  We can be contacted at <a href="projectreal@equalitytime.co.uk">projectreal@equalitytime.co.uk</a>
 
 
