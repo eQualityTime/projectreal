@@ -32,12 +32,15 @@ So who do they trust? They trust each other, and they trust the people they see 
 So to build these resources, we arranged for influencers to give a series of talks and Q&A sessions to groups of students and worked with those students to co-create session plans (which included asking the influencers to record short snippets on their area of expertise). As a result, the resources below are informed by expert opinion and also set at an ideal level for the students to appreciate and understand.  
 
 <div>
-<img src="{{site.baseurl}}/assets/in1.png" style="max-width:30%;float:left" alt="A portrait shot of one of our influencers"/> 
-<img src="{{site.baseurl}}/assets/in2.png" style="max-width:30%;float:left" alt="A portrait shot of one of our influencers"/> 
-<img src="{{site.baseurl}}/assets/in3.png" style="max-width:30%;float:left" alt="A portrait shot of one of our influencers"/> 
-<p style="clear:both;text-align: center;"> <i>Three of our influencers: Phoebe, Bushra, Harriotte.</i></p>
+<img src="{{site.baseurl}}/assets/in1.png" style="height:250px;float:left" alt="A portrait shot of one of our influencers"/> 
+<img src="{{site.baseurl}}/assets/in2.png" style="height:250px;float:left" alt="A portrait shot of one of our influencers"/> 
+<img src="{{site.baseurl}}/assets/in3.png" style="height:250px;float:left" alt="A portrait shot of one of our influencers"/> 
+<img src="{{site.baseurl}}/assets/in4.png" style="height:250px;float:left" alt="A portrait shot of one of our influencers"/> 
+<img src="{{site.baseurl}}/assets/in5.png" style="height:250px;float:left" alt="A portrait shot of one of our influencers"/> 
+<p style="clear:both;text-align: center;"> </p>
 </div>
 
+_Our influencers: [Phoebe](https://www.mandy.com/uk/actor/phoebelourdes), [Bushra](https://www.instagram.com/bsiddlife/?hl=en), [Harriotte](https://www.instagram.com/harriotte_/?hl=en-gb), [Katie](https://www.instagram.com/_katiemeehan/), and [Carley](https://www.instagram.com/unicornpuffsandrainbows/?hl=en)_
 
 ## How did it go? 
 
