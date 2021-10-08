@@ -13,8 +13,9 @@ layout: page
 This site contains session plans and resources for six sessions, each focussed on the government SHARE guidelines and covering a different element of online misinformation.  These sessions have been designed to be delivered in schools and youth group settings  but may also be of interest to families.
 
 
-
+<p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tjRWtL4FSyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ## Why? 
 Fake news reaches more people and spreads more quickly than the truth (Science, 2018) and is believed around 75% of the time (Silveman & Singer-Vine, 2016), meaning millions of people may have been fooled by fake news (Allcot & Gentzkow, 2017). It is vital to help people to develop skills to recognise fake news as they are our first line of defence against fake news. 
