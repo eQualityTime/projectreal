@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Session 4: Fake Stories
+## Session 4: Fake Stories
 The materials for the session can be found on PowerPoint (“Fake Stories”). The PowerPoint has notes which outline the content and other information which might be useful.  This session should take around 60 minutes to complete, but please feel free to be flexible on timings depending on student interest.  You will need a projector to show the slides and to be able to play the videos.  Videos are embedded, but the links to the original YouTube videos can also be found in the notes section in case of any issues.  You do not need any special equipment for this session. 
 
 The aims of this session are to teach students to:

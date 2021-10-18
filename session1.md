@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Session 1: Fake News
+## Session 1: Fake News
 
 The materials for the session can be found on the PowerPoint (“Fake News”). The PowerPoint has notes which outline the timings and other information which might be useful.  This session should take around 50-60 minutes. You do not need any equipment for this session except a projector.  The session is based on small group work/paired work.
 The aims of this session are to teach students:

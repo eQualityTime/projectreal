@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Session 3: Fake People
+## Session 3: Fake People
 The materials for the session can be found on the PowerPoint (“Fake People”).  The PowerPoint has notes which outline the content and other information which might be useful.  This session should take around 60 minutes to complete, but please feel free to be flexible on timings depending on student interest.  
 
 You will need a projector to show the slides and to be able to play the videos.  Videos are embedded, but the links to the original YouTube videos can also be found in the notes section in case of any issues.  You do not need any special equipment for this session. However, there was a suggestion from the young people that the final activity could be an ‘exit pass’ where students need to write their answer on a post it and stick it onto the door when they leave.  If you choose to do this, you will need post-it notes. If not, then this can be done as a discussion.  
