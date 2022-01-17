@@ -30,7 +30,7 @@ _Our influencers: [Phoebe](https://www.mandy.com/uk/actor/phoebelourdes), [Bushr
 </div>
 
 
-<div class="link-container"> <a class="box" href="{{site.baseurl}}/contact.html">Click to contact us about working with us for future influencer lessons</a>  
+<div class="link-container"> <a class="box" href="{{site.baseurl}}/about.html">Click to contact us about working with us for future influencer lessons</a>  
 
 </div>
 

@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Sessions
+title: Lessons
 ---
 
 Fake news reaches more people and spreads more quickly than the truth (Science, 2018) and is believed around 75% of the time (Silveman & Singer-Vine, 2016), meaning millions of people may have been fooled by fake news (Allcot & Gentzkow, 2017). It is vital to help people to develop skills to recognise fake news as they are our first line of defence against fake news. 
