@@ -8,7 +8,7 @@ title: "About us and contact"
 
 ## The Team
 * [Dr Yvonne Skipper](https://www.gla.ac.uk/schools/education/staff/yvonneskipper/)
-* [Dr Daniel Jolley](https://www.northumbria.ac.uk/about-us/our-staff/j/daniel-jolley/) 
+* [Dr Daniel Jolley](https://www.danieljolley.co.uk/) 
 * [Gemma Haywood](https://twitter.com/phdgemmahaywood?lang=en)
 * [Joe Reddington](https://joereddington.com/)
 
