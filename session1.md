@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Session 1: Fake News
+title: "Session 1: Fake News"
 ---
 
 
