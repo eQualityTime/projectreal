@@ -1,5 +1,6 @@
 --- 
 layout: page
+title: Session 3: Fake People
 ---
 
 The materials for the session can be found on the PowerPoint (“Fake People”).  The PowerPoint has notes which outline the content and other information which might be useful.  This session should take around 60 minutes to complete, but please feel free to be flexible on timings depending on student interest.  

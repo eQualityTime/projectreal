@@ -1,5 +1,6 @@
 --- 
 layout: page
+title: Session 6: Teaching younger  years
 ---
 
 The materials for the session can be found on the PowerPoint (“Teaching Younger Years”). The PowerPoint has notes which outline the content and other information which might be useful.  This session should take around 60 minutes to complete, but please feel free to be flexible on timings depending on student interest.  You will need a projector to show the slides.  In the session students will be asked to create a piece of work of their choice to teach younger students about what they have learnt in Project Real.  Depending on resources, you may want to suggest creative activities such as:

@@ -1,5 +1,6 @@
 --- 
 layout: page
+title: Session 2: Fake Photos 
 ---
 
 The materials for the session can be found on the Powerpoint (“Fake Photos”).  The PowerPoint has notes which outline the content and other information which might be useful.  This session should take around 60 minutes to complete, but please feel free to be flexible on timings depending on student interest.  You will need a projector to show the slides and to be able to play the videos.  Videos are embedded, but the links to the original YouTube videos can also be found in the notes section in case of any issues.  
