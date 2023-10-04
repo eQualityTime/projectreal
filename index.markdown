@@ -19,3 +19,4 @@ This site contains lesson plans and resources for six lessons, each focussed on 
 <div class="link-container"> <a class="box" href="{{site.baseurl}}/influencers.html">Click here to find out what makes us different</a>  
 </div>
 
+Academic researchers might be interested in [this paper](http://dx.doi.org/10.1111/bjdp.12456) that we published on the project. 
