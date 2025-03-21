@@ -4,11 +4,10 @@ title: Case 2
 exclude: true
 ---
 
-
-*   Days go by and you still can’t log in.
-*   You start hearing from friends that your account is sending weird messages. Some of your friends think you are scamming them!
-*   Oh Now you’re not just  locked out – you’ve lost control of your online identity.
-*   Lesson: If you lose access to an account, acting quickly is the best way to prevent further damage.
+*   You convince yourself you’re overreacting. They seem nice enough, so you start chatting.
+*   After a while, they suggest going somewhere quieter, away from the crowd. 
+*   Now you feel uncomfortable. You don’t want to leave the public shopping centre with them. You make up an excuse and leave.
+*   Lesson: Meeting alone was a risky decision. If something feels off, it probably is. Never be afraid to leave a situation that makes you uncomfortable. 
 
 
 [go back to the start](index.html) 
