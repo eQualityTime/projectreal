@@ -12,6 +12,7 @@ We've prepared some casefiles for you! Can you work out what the right decision 
 * [Case 2](casefiles/2/index.html) 
 * [Case 3](casefiles/3/index.html) 
 * [Case 4](casefiles/4/index.html) 
+* [Case 5](casefiles/5/index.html) 
 
 
 
