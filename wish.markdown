@@ -3,7 +3,7 @@ layout: page
 title: Starting a conversation
 ---
 
-# What I Wish My Parents Knew About My Online Life
+## What I Wish My Parents Knew About My Online Life
 The internet is a huge part of life for young people today—whether it's for chatting with friends, gaming, watching videos, or learning new things. But sometimes, there’s a gap between how young people and their parents experience the online world.
 
 That’s why we asked young people, “What do you wish your parents knew about your online life?” Their honest and insightful answers helped create this video, which is designed to spark conversations between parents and young people about staying safe online, spotting misinformation, and navigating the digital world together.
