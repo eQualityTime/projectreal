@@ -11,16 +11,17 @@ We worked with groups of young people in Glasgow to ask them what they wished th
 
 <section>
   <h2 style="color:#005ea5;">Questions for parents to ask their children</h2>
-  <p><strong>Being online is more than JUST  screen time.</strong></p>
+  <p><strong>Being online is more than just  screen time.</strong></p>
   <ul>
     <li>What do you enjoy most about being online?</li>
     <li>What’s something you’ve learned online recently that you wouldn’t have learned at school?</li>
   </ul>
-  <p><strong>I need your support, NOT JUST  rules.</strong></p>
+  <p><strong>I need your support, not just  rules.</strong></p>
   <ul>
     <li>How can I support you in staying safe online without making you feel like I don’t trust you or I’m spying on you?</li>
   </ul>
-  <p><strong>It’s NOT always easy to talk to you.</strong></p>
+  <p><strong>It’s not always easy to talk to you.</strong></p>
+
   <ul>
     <li>What makes it hard to talk to me about your online life?</li>
     <li>What could I do to make it easier for us to talk about these things?</li>
@@ -42,23 +43,23 @@ We worked with groups of young people in Glasgow to ask them what they wished th
 
 <section>
   <h2 style="color:#28a197;">Questions for young people to ask their parents</h2>
-  <p><strong>Being online is more than JUST  screen time.</strong></p>
+  <p><strong>Being online is more than just  screen time.</strong></p>
   <ul>
     <li>What do you think I’m doing when I’m online? Is there anything about my online life that you would like me to explain?</li>
     <li>What was your version of “being online” when you were younger?</li>
   </ul>
-  <p><strong>I need your support, NOT JUST  rules.</strong></p>
+  <p><strong>I need your support, not just  rules.</strong></p>
   <ul>
     <li>What do you worry about most when it comes to my safety online?</li>
   </ul>
-  <p><strong>It’s NOT always easy to talk to you.</strong></p>
+  <p><strong>It’s not always easy to talk to you.</strong></p>
   <ul>
     <li>If something went wrong online, what would you want me to do first?</li>
     <li>If I told you something went wrong online, what’s the first thing you would do?</li>
   </ul>
   <p><strong>Online problems are real problems.</strong></p>
   <ul>
-    <li>Do you think online problems can be JUST  as serious as real-life ones? Why or why NOT?</li>
+    <li>Do you think online problems can be just  as serious as real-life ones? Why or why not?</li>
   </ul>
   <p><strong>Guide me, don’t guard me.</strong></p>
   <ul>
