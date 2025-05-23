@@ -14,11 +14,11 @@ exclude: true
 
 <script>
 const messages = [
-  { text: "Hey, it’s Becky. Don’t freak out.", type: "received" },
-  { text: "I’m at some guy’s house in another city. I don’t have any money to get home 😞", type: "received" },
-  { text: "Please don’t tell my parents. Can you send me something?", type: "received" },
-  { text: "Wait… is this really you? This isn’t your number.", type: "sent" },
-  { text: "Yeah it’s me, I JUST  borrowed a phone. Please, I’m really stuck.", type: "received" },
+  { text: "hey it's becky don't geek out", type: "received" },
+  { text: "im at a friends house out of town and can't get home", type: "received" },
+  { text: "can you snd cash or come n get me or smth without telling my parents", type: "received" },
+  { text: "???", type: "sent" },
+  { text: "yh its me I borrowed his phone lol", type: "received" },
 ];
 
 const container = document.querySelector('.message-container');
