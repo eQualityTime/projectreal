@@ -13,10 +13,10 @@ exclude: true
 <script>
 const messages = [
   { text: "Can’t believe we’ve been chatting for weeks now 😄", type: "received" },
-  { text: "Right? Feels like I’ve known you forever lol", type: "sent" },
+  { text: "lol", type: "sent" },
   { text: "I always look forward to your messages — you’ve got the best style 😍", type: "received" },
-  { text: "Haha stop it, you’re gonna make me blush 😅", type: "sent" },
-  { text: "Hey, since we get on so well... want to meet up at the shopping centre this weekend?", type: "received" },
+  { text: "that's kinda weird", type: "sent" },
+  { text: "Hey, since we get on so well... want to meet up at town this weekend?", type: "received" },
 ];
 
 

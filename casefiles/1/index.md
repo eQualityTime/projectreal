@@ -13,9 +13,9 @@ exclude: true
 <script>
 const messages = [
   { text: "Hey, I'm the mod for riverstyles.com's forum - how are you doing?", type: "received" },
-  { text: "All good here! Thanks for asking 😊", type: "sent" },
+  { text: "👍", type: "sent" },
   { text: "Just a heads-up — your account might be in trouble!", type: "received" },
-  { text: "Wait, what do you mean?", type: "sent" },
+  { text: "wdym", type: "sent" },
   { text: "It's no big deal, you just have to re-athenticate here: https://bit.ly/4dvohrZ", type: "received" },
 ];
 
