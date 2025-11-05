@@ -54,6 +54,8 @@ _Our influencers: [Phoebe](https://www.mandy.com/uk/actor/phoebelourdes), [Bushr
 > ‘For me, I don’t really look at news that much either. But like, especially when I'm scrolling on social media, like, I tend to kind of look at things, especially Instagram, because I'm like, Oh, I wish I could take photos as perfect as that. And then I'm like, wait, but that isn't real though.’
 
 
+# Thank you! 
+This project was co-funded by, and would not have been possible without the ESRC Impact Acceleration Account (ESRC IAA) and the Global Knowledge Exchange Fund (GKEF).
 
 
 
