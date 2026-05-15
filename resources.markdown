@@ -45,7 +45,11 @@ Some resources are designed to support conversations beyond the classroom, inclu
 
 ## Your information activity
 
-This activity looks at what people can learn from posts, likes, and profile details online. It can be used as a classroom discussion activity or as part of wider work on privacy, identity, and digital footprints.
+This activity uses a fake social media site to explore what people can learn from posts, likes, and profile details online. It can be used as a classroom discussion activity or as part of wider work on privacy, identity, and digital footprints. It also includes a password-guessing game built around the profiles.
+
+<div style="background: rgba(0, 0, 0, 0.04); padding: 18px; border-radius: 8px; text-align: center;">
+  <img src="{{site.baseurl}}/assets/rea.png" alt="Screenshot of the Rea profile from the Your information activity" style="width: 50%; height: auto;" />
+</div>
 
 - [Explore the Your information activity](social.html)
 
@@ -55,4 +59,4 @@ The comics were co-created with groups of young people and focus on the worries,
 
 They can be used as discussion prompts, enrichment material, or alongside the wider teaching resources on the site.
 
-- [Browse the comics](comics.html)
+- [Browse the comics](https://www.projectreal.co.uk/comics/)
