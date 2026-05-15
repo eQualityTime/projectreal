@@ -16,5 +16,4 @@ title: "About us"
 We are funded by [Not Equal](https://not-equal.tech/).  Not-Equal is a UKRI funded network, NetworkPlus, that aims to foster new collaborations in order to create the conditions for digital technology to support social justice, and develop a path for inclusive digital innovation and a fairer future for all in and through the digital economy.
 
 ## Contact Us
-If you have any feedback on the programme, please get in touch and let us know.  We hope you and your students enjoy the programme.  We can be contacted at <a href="projectreal@equalitytime.co.uk">projectreal@equalitytime.co.uk</a>
-
+If you have any feedback on the programme, please get in touch and let us know.  We hope you and your students enjoy the programme.  We can be contacted at <a href="mailto:joe@equalitytime.co.uk">joe@equalitytime.co.uk</a>

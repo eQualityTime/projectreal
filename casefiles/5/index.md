@@ -9,7 +9,7 @@ exclude: true
 
 ## What are you going to do? 
 
-You discover a social media account that looks JUST  like yours – same name, same photos – but you didn’t make it. The account is messaging your friends. What do you do?
+You discover a social media account that looks just like yours – same name, same photos – but you didn’t make it. The account is messaging your friends. What do you do?
 
 
 
@@ -18,6 +18,5 @@ You discover a social media account that looks JUST  like yours – same name, s
 
 
 Or [Go back to the list of cases](https://www.projectreal.co.uk/casefiles.html) 
-
 
 

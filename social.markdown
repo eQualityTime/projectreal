@@ -7,7 +7,7 @@ This activity explores how your posts, likes, and profile details can give away 
 
 As part of our work with young people, we created a fake social media site with various profiles.
 
-Take a look at these profiles. What can you learn about these people JUST  from what they’ve posted?
+Take a look at these profiles. What can you learn about these people just from what they’ve posted?
 
  
 * [Rea](https://equalitytime.github.io/reasdiary/)

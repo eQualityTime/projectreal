@@ -16,12 +16,12 @@ After watching, take some time to explore the discussion questions. There are no
 
   <section style="flex: 1; min-width: 300px;">
     <h2 style="color:#005ea5;">Questions for parents to ask their children</h2>
-    <p><strong>Being online is more than JUST  screen time.</strong></p>
+    <p><strong>Being online is more than just screen time.</strong></p>
     <ul>
       <li>What do you enjoy most about being online?</li>
       <li>What’s something you’ve learned online recently that you wouldn’t have learned at school?</li>
     </ul>
-    <p><strong>I need your support, NOT JUST  rules.</strong></p>
+    <p><strong>I need your support, not just rules.</strong></p>
     <ul>
       <li>How can I support you in staying safe online without making you feel like I don’t trust you or I’m spying on you?</li>
     </ul>
@@ -47,12 +47,12 @@ After watching, take some time to explore the discussion questions. There are no
 
   <section style="flex: 1; min-width: 300px;">
     <h2 style="color:#28a197;">Questions for young people to ask their parents</h2>
-    <p><strong>Being online is more than JUST  screen time.</strong></p>
+    <p><strong>Being online is more than just screen time.</strong></p>
     <ul>
       <li>What do you think I’m doing when I’m online? Is there anything about my online life that you would like me to explain?</li>
       <li>What was your version of “being online” when you were younger?</li>
     </ul>
-    <p><strong>I need your support, NOT JUST  rules.</strong></p>
+    <p><strong>I need your support, not just rules.</strong></p>
     <ul>
       <li>What do you worry about most when it comes to my safety online?</li>
     </ul>
@@ -63,7 +63,7 @@ After watching, take some time to explore the discussion questions. There are no
     </ul>
     <p><strong>Online problems are real problems.</strong></p>
     <ul>
-      <li>Do you think online problems can be JUST  as serious as real-life ones? Why or why NOT?</li>
+      <li>Do you think online problems can be just as serious as real-life ones? Why or why not?</li>
     </ul>
     <p><strong>Guide me, don’t guard me.</strong></p>
     <ul>
@@ -77,4 +77,3 @@ After watching, take some time to explore the discussion questions. There are no
   </section>
 
 </div>
-

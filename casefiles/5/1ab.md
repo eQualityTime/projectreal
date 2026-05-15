@@ -9,7 +9,7 @@ exclude: true
 *   They help with reporting the scam to Action Fraud and to Police Scotland.
 *   They help with calling your bank to explain the situation. You might be able to get a refund.
 *   You also tell your real friend that someone is impersonating them so they can warn others.
-*   🎉 Smart move! You didn’t JUST  protect yourself, you helped protect others too!
+*   🎉 Smart move! You didn’t just protect yourself, you helped protect others too!
 *   🤔 Lesson: Scammers rely on victims staying quiet so they can scam other people in future. 
 *   What could you do to prevent this from happening in the first place?
 

@@ -9,7 +9,7 @@ exclude: true
 *   Now you’re almost certain it’s a scam so you stop replying and don’t send the money.
 *   A few minutes later, your friend posts on social media from home. You message them and they have NO idea what you’re talking about. It turns out they were never stuck!
 *   🎉 You made a safer choice! Not letting yourself be rushed into action is a responsible thing to do.
-*   🤔 Lesson: Scammers might try to rush you because they don’t want you to think. If someone is really your friend, they would probably be confused by you asking about a sister they don’t have. If somebody is rushing you and NOT engaging with your messages, that could be a 🚨 red flag. Scammers don’t care about real details – they JUST  want money.
+*   🤔 Lesson: Scammers might try to rush you because they don’t want you to think. If someone is really your friend, they would probably be confused by you asking about a sister they don’t have. If somebody is rushing you and not engaging with your messages, that could be a 🚨 red flag. Scammers don’t care about real details – they just want money.
 
 Next step: what do you do now?
 
@@ -20,4 +20,3 @@ Next step: what do you do now?
 
 
 [Go back to the start](index.html) 
-
