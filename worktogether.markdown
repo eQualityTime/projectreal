@@ -17,3 +17,7 @@ We are currently working with:
 - Police Scotland
 - Public Health Scotland
 - [The Melissa Institute](https://melissainstitute.org/)
+
+<div style="margin-top: 20px;">
+  <img src="{{site.baseurl}}/assets/images/biggroup.jpg" alt="Project Real working with partners including Police Scotland" style="width: 100%; height: auto;" />
+</div>
